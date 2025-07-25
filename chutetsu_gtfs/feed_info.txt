@@ -1,0 +1,2 @@
+"feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
+"中鉄バス株式会社","http://www.chutetsu-bus.co.jp","ja","20241230","20251025","20241230_20250724"

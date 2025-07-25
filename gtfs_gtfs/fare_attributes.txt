@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+120_0,120,JPY,0,0,
+140_0,140,JPY,0,0,
+140_1,140,JPY,0,1,

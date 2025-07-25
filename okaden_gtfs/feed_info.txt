@@ -1,0 +1,2 @@
+"feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
+"岡山電気軌道(バス)","http://www.okayama-kido.co.jp/bus/","ja","20250316","20251025","20250316_20250724"

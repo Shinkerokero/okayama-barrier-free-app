@@ -1,0 +1,2 @@
+"agency_id","agency_official_name","agency_zip_number","agency_address","agency_president_pos","agency_president_name"
+"6260001004381","中鉄バス株式会社","7000821","岡山市北区中山下２丁目８番５５号","代表取締役","藤田　祥江"

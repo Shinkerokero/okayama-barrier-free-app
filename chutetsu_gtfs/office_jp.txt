@@ -1,0 +1,5 @@
+"office_id","office_name","office_url","office_phone"
+"9","本社営業所",,
+"1","岡山営業所",,
+"5","勝山営業所",,
+"6","御津営業所",,

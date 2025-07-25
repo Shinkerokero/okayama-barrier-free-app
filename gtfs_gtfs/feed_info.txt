@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+岡山電気軌道株式会社,https://okayama-kido.co.jp/tramway/,ja,20250722,20260331,20250722_改正

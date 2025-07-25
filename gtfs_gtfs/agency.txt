@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+6260001001189,岡山電気軌道株式会社,https://okayama-kido.co.jp/tramway/,Asia/Tokyo,ja,086-230-2130,,
